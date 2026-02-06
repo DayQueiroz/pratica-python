@@ -1,0 +1,20 @@
+estrutura a ser utilizada:
+        if CONDICAO_1:
+           comando_1
+           comando_2
+        elif CONDICAO_2:
+            comando_3
+            comando_4
+        else:
+            comando_se_nao
+
+    Condição - qualquer operação que, utilizando operadores lógicos 
+    e/ou relacionais, resulte em verdadeiro (True) ou falso (False)
+
+    **prestar atenção a indentação;
+
+    elif é a junção do if e else, uma condição se não. pode ter varios elif em uma estrutura 
+    mas só terá um else
+
+    comando_se_nao sempre será executado se a condição não for verdadeira.
+
