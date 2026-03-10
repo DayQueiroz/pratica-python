@@ -5,4 +5,4 @@ Principais tipos de coleções
 - Listas: elementos ordenados (com posição) e mutáveis.                         []
 - Tuplas: elementos ordenandos (com posição) e imutáveis.                       ()
 - Conjuntos: elementos não ordenados (sem posição) e não podem se repetir.      {}
-- Dicionários: elementos na forma de pares chave-valor.
+- Dicionários: elementos na forma de pares chave-valor.                         {}
